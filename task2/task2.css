@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+    display: inline-block;
+    justify-content: space-between;
+    height:100%;
+    width: 100%;
+    color: aliceblue;
+    position: relative;
+    margin: 40px;
+    
+}
+div div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+}
+.four{
+    background-color: rgb(174, 79, 217);
+        left: 40px;
+        top: -30px;
+    }
+    .one{
+        left: 10px;
+        
+        
+        background-color: rgb(227, 136, 94);
+        
+    }
+    .two{
+        left: 20px;
+        top: -10px;
+        
+        background-color: rgb(79, 217, 123);
+        
+    }
+    .three{
+        top: -20px;
+        left: 30px;
+        
+        background-color: rgb(57, 29, 3);
+        
+    }
